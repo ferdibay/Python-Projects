@@ -1,2 +1,2 @@
-# Here is the a couple of Python projects from my first term at university 
+# Here is a couple of Python projects from my first term at university 
 
