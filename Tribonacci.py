@@ -12,7 +12,7 @@ def tribo():
     
         return tribo()
       
-    elif sayi>3:
+    elif sayi>=3:
         
         print("1 \n1 \n1")
         
