@@ -1,2 +1,2 @@
-# All my Python projects from zero to hero:) 
+# All my Python projects from first semester at the university
 
